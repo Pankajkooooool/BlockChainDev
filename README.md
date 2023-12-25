@@ -1,1 +1,1 @@
-This is Solidity Js !!!
+This is Solidity !!!
